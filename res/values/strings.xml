@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Morse</string>
+    <string name="senden">Senden</string>
+    <string name="action_settings">Settings</string>
+    <string name="speed_0_1">0,1s</string>
+    <string name="speed_0_5">0,5s</string>
+    <string name="speed_1">1s</string>
+
+</resources>
